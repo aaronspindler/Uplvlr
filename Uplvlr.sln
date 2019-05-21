@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.352
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uplvlr", "Uplvlr\Uplvlr.csproj", "{472E6363-5C75-4B76-BA52-67C22B173AAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uplvlr", "Uplvlr\Uplvlr.csproj", "{472E6363-5C75-4B76-BA52-67C22B173AAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uplvlr.Test", "Uplvlr.Test\Uplvlr.Test.csproj", "{4841FDA7-8EF9-4C5F-A32F-1E5FD536EBB9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{472E6363-5C75-4B76-BA52-67C22B173AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{472E6363-5C75-4B76-BA52-67C22B173AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{472E6363-5C75-4B76-BA52-67C22B173AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4841FDA7-8EF9-4C5F-A32F-1E5FD536EBB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4841FDA7-8EF9-4C5F-A32F-1E5FD536EBB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4841FDA7-8EF9-4C5F-A32F-1E5FD536EBB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4841FDA7-8EF9-4C5F-A32F-1E5FD536EBB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
